@@ -29,7 +29,7 @@ I'm **Sreekanth Balireddi**, a **QA Engineer** with **1 year of experience** at 
 - 📊 **Data & Analytics** — SQL validation across **Snowflake**, **Oracle OBIEE/OAS**, ETL flows, and Oracle Analytics dashboards
 - ✅ **Quality** — Regression, smoke, and functional testing; **100+ production defects** managed via JIRA
 - 🎓 **MCA** — Master of Computer Applications, KMMITS Tirupathi (77%)
-- 📫 **Connect** — [Email](mailto:sreekanthbalireddi@gmail.com) · Add LinkedIn in **Edit profile** on GitHub
+- 📫 **Connect** — [Email](mailto:sreekanthbalireddi@gmail.com) 
 
 ---
 
@@ -112,22 +112,22 @@ I'm **Sreekanth Balireddi**, a **QA Engineer** with **1 year of experience** at 
 
 <!-- Profile README is shown at github.com/USER — use full repo URLs, not ./certificates/ -->
 <p align="center">
-  <a href="https://github.com/sreekanthbalireddi/sreekanthbalireddi/blob/main/certificates/Selenium%20WebDriver%20Java%20Basics%20to%20Advanced%20%2B%20Frameworks.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/139cN9ZbyOmvyk7F-hIpf99-78K_y3seB/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Selenium%20WebDriver%20with%20Java-43B02A?style=flat-square" alt="Selenium WebDriver with Java certificate" />
   </a>
-  <a href="https://github.com/sreekanthbalireddi/sreekanthbalireddi/blob/main/certificates/GitOps%20certificate.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1rGdwmO1H8SwsYYVapt7vEZfPHYQPjUiy/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Git--Ops-181717?style=flat-square&logo=github&logoColor=white" alt="GitOps certificate" />
   </a>
-  <a href="https://github.com/sreekanthbalireddi/sreekanthbalireddi/blob/main/certificates/AWS.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/16adR_CX9TG5SYX2JkkdPaZFXh90bfd1e/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AWS%20Certification-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS certificate" />
   </a>
-  <a href="https://github.com/sreekanthbalireddi/sreekanthbalireddi/blob/main/certificates/Python_-_Course_Completion_Certificate.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1GEXEV4A3CZ58DerM72p96Ost3RAjlVd6/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Python%20Certification-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python certificate" />
   </a>
-  <a href="https://github.com/sreekanthbalireddi/sreekanthbalireddi/blob/main/certificates/SQL%202023-12-31%20160335.png" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1GEXEV4A3CZ58DerM72p96Ost3RAjlVd6/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/SQL%20Certification-4479A1?style=flat-square" alt="SQL certificate" />
   </a>
-  <a href="https://github.com/sreekanthbalireddi/sreekanthbalireddi/blob/main/certificates/BALIREDDI%20SREEKANTH%20-%20Advanced%20SQL.png" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1f7Z__BorMa395sGngVDwLzHvRXpavbD8/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=flat-square" alt="Advanced SQL certificate" />
   </a>
 </p>
