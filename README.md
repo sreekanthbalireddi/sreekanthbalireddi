@@ -94,7 +94,6 @@ I'm **Sreekanth Balireddi**, a **QA Engineer** with **1 year of experience** at 
 |--------|-------------|
 | [Anaytics Dashboard CRUD Operations](https://github.com/sreekanthbalireddi/Anaytics-Dashboard-CRUD-Operations) | **Automated Analytics Dashboard Testing Framework** — Java, TestNG, Maven; E2E CRUD validation, modular framework design, XML-based TestNG suites, shell scripts for env setup |
 | [Sreekanth-MCA-Project](https://github.com/sreekanthbalireddi/Sreekanth-MCA-Project) | MCA academic project |
-| [Front-end-Project](https://github.com/sreekanthbalireddi/Front-end-Project) | Front-end development work |
 
 ---
 
@@ -104,7 +103,7 @@ I'm **Sreekanth Balireddi**, a **QA Engineer** with **1 year of experience** at 
 |--------|-------------|--------|-------|
 | **MCA** — Master of Computer Applications | KMMITS, Tirupathi | 2021 – 2023 | **77%** |
 
-**Training** · Comprehensive Java, Manual Testing & Automation — Q & J Spiders Institute, Bangalore
+**Trained** · Comprehensive Java, Manual Testing & Automation — Q & J Spiders Institute, Bangalore
 
 ---
 
